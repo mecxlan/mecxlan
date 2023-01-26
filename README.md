@@ -89,8 +89,9 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 	
-	
 </p>
+-->
+
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -112,4 +113,3 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 	<img alt="Arslan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mecxlan&custom_title=mecxlan's%20Contribution%20Graph&theme=react-dark" />
 </a>
   <br/>
--->
