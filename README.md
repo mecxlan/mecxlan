@@ -17,15 +17,21 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 ## 👯 Connect with me
  
 <br>
-<p align="center">
+<table cellpadding="2"
+<tr>
+<td>
+       <p align="center">
 	<a href="https://www.linkedin.com/in/mecxlan/" target="_blank">
 		<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<br>
-	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mecxlan@gmail.com" target="_blank"> 
+	       </td>
+	       <td>
+		<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mecxlan@gmail.com" target="_blank"> 
 	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	
+	</td>
+	</tr>
+	</table>
 </p>
 <br>
 
