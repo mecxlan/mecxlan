@@ -17,7 +17,7 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 ## 👯 Connect with me
  
 <br>
-<table cellpadding="2"
+<table cellpadding="2">
 <tr>
 <td>
        <p align="center">
