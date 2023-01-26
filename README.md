@@ -34,9 +34,9 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 <br>
 <br>
 
+<!--
 ## 🛠️ My Skills
 
-<!--
 ### 👉 Programming languages
 
 <p align="center"> 
@@ -47,7 +47,6 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
-	
 	
 </p>
 
@@ -92,7 +91,6 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 	
 	
 </p>
--->
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -114,3 +112,4 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 	<img alt="Arslan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mecxlan&custom_title=mecxlan's%20Contribution%20Graph&theme=react-dark" />
 </a>
   <br/>
+-->
