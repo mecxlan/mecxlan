@@ -8,7 +8,7 @@
 
 
 ## :sassy_man:  About me
-Hi there! 👋 Muhammad Arslan, Bachelor's student at Air University, Islamabad.I'm interested in Data Science. 
+Hi there! 👋 Muhammad Arslan, Bachelor's student at Air University, Islamabad. I'm interested in Data Science. 
 
 I am a proactive learner and enjoy staying up to date with the latest trends. My current focus is on emerging technologies. I am currently focusing on my final year project of Data Analysis.
 
@@ -21,6 +21,7 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
 	<a href="https://www.linkedin.com/in/mecxlan/" target="_blank">
 		<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
+	<br>
 	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mecxlan@gmail.com" target="_blank"> 
 	     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
