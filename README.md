@@ -111,6 +111,6 @@ I am a proactive learner and enjoy staying up to date with the latest trends. My
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/mecxlan">
-	<img alt="Arslan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mecxlan&custom_title=Arslan's%20Contribution%20Graph&theme=react-dark" />
+	<img alt="Arslan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mecxlan&custom_title=mecxlan's%20Contribution%20Graph&theme=react-dark" />
 </a>
   <br/>
