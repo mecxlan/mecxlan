@@ -63,6 +63,15 @@ I'm a passionate self-driven developer who is forever learning and building cool
   </a>
 </p>
 
+<br/>
+
+## 📃  Certificaitons
+
+1. `Machine Learning` with `ChatGPT`
+2. IBM - `Tools` for `Data Science`
+3. IBM - `Python` for `Data Science, AI & Development`
+4. IBM - Solving Problems with `Creative & Critical Thinking`
+
 <!--
 ### 👉 Backend Development
 <p align="center"> 
@@ -102,9 +111,7 @@ I'm a passionate self-driven developer who is forever learning and building cool
   <br/>
 	  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-	  
+  </p>  
 
 
   
