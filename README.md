@@ -67,10 +67,10 @@ I'm a passionate self-driven developer who is forever learning and building cool
 
 ## 📃  Certificaitons
 
-1. `Machine Learning` with `ChatGPT`
+1. IBM - What is `Data Science`
 2. IBM - `Tools` for `Data Science`
-3. IBM - `Python` for `Data Science, AI & Development`
-4. IBM - Solving Problems with `Creative & Critical Thinking`
+3. IBM - `Python` for `Data Science`, `AI` & `Development`
+4. IBM - `Solving Problems` with `Creative` & `Critical Thinking`
 
 <!--
 ### 👉 Backend Development
