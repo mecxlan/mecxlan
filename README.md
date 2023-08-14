@@ -67,10 +67,18 @@ I'm a passionate self-driven developer who is forever learning and building cool
 
 ## 📃  Certificaitons
 
-1. IBM - What is `Data Science`
-2. IBM - `Tools` for `Data Science`
-3. IBM - `Python` for `Data Science`, `AI` & `Development`
-4. IBM - `Solving Problems` with `Creative` & `Critical Thinking`
+1. [IBM - What is `Data Science`](https://coursera.org/share/4386652570f81392e7e2ef5fef702ba7)
+2. [IBM - `Tools` for `Data Science`](https://coursera.org/share/808dacdd9296d6aa305ca475b3fadc4c)
+3. [IBM - `Python` for `Data Science`, `AI` & `Development`](https://coursera.org/share/84de6049eb6bbcdc53a30cdb3df65700)
+4. [IBM - `Solving Problems` with `Creative` & `Critical Thinking`](https://coursera.org/share/20751ce1096b4021aa67a78b5747f668)
+5. [IBM - Present with Purpose: Create/Deliver Effective Presentation](https://www.coursera.org/account/accomplishments/verify/HYRZQBCG2MJQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+   
+## 🧩 Projects
+
+1. [Machine Learning with ChatGPT: Image Classification Model](https://www.coursera.org/account/accomplishments/verify/6ZLD4N9KGVZM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+2. [Getting Started with Power BI Desktop](https://coursera.org/share/07cab71d1096e34e49fa25f6ffe7cbd4)
+3. [Getting started with Microsoft Excel](https://www.coursera.org/account/accomplishments/verify/EBQJ7HJRNDZD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project) 
 
 <!--
 ### 👉 Backend Development
