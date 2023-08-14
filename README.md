@@ -65,7 +65,7 @@ I'm a passionate self-driven developer who is forever learning and building cool
 
 <br/>
 
-## 📃  Certificaitons
+## 📃  Coursera Certificaitons 
 
 1. [IBM - What is `Data Science`](https://coursera.org/share/4386652570f81392e7e2ef5fef702ba7)
 2. [IBM - `Tools` for `Data Science`](https://coursera.org/share/808dacdd9296d6aa305ca475b3fadc4c)
@@ -74,7 +74,7 @@ I'm a passionate self-driven developer who is forever learning and building cool
 5. [IBM - Present with Purpose: Create/Deliver Effective Presentation](https://www.coursera.org/account/accomplishments/verify/HYRZQBCG2MJQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
    
-## 🧩 Projects
+## 🧩 Coursera Project Network
 
 1. [Machine Learning with ChatGPT: Image Classification Model](https://www.coursera.org/account/accomplishments/verify/6ZLD4N9KGVZM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
 2. [Getting Started with Power BI Desktop](https://coursera.org/share/07cab71d1096e34e49fa25f6ffe7cbd4)
