@@ -2,7 +2,10 @@
 **mecxlan/mecxlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ...
 -->
 
+
+<header>
 <h1 align="center">Hey , I'm Muhammad Arslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</header>
 <br>
 <!-- <table border=0 cellpadding="2">
 <tr>
@@ -20,7 +23,7 @@
 -->
 
 ## :sassy_man:  About me
-I'm a passionate self-driven developer who is forever learning and building cool stuff. I'm interested in Data Science. My current focus is on emerging technologies. I am currently focusing on my Deeplearning final year project .
+I'm interested in Data Science. My current focus is on emerging technologies (Machine Learing & Deep Learning) & working on my Final Year Project (FYP).
 
 <br>
 
