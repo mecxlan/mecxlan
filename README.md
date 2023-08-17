@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey , I'm Muhammad Arslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<table border=0 cellpadding="2">
+<!-- <table border=0 cellpadding="2">
 <tr>
        <p align="center">
 	<a href="https://www.linkedin.com/in/mecxlan/" target="_blank">
@@ -17,6 +17,7 @@
 	</tr>
 	</table>
 </p><br>
+-->
 
 ## :sassy_man:  About me
 I'm a passionate self-driven developer who is forever learning and building cool stuff. I'm interested in Data Science. My current focus is on emerging technologies. I am currently focusing on my Deeplearning final year project .
