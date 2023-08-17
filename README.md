@@ -1,12 +1,13 @@
+<header> 
+
 <!--
 **mecxlan/mecxlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ...
 -->
 
 
-<header>
-<h1 align="center">Hey , I'm Muhammad Arslan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Muhammad Arslan, 
 </header>
-<br>
+
 <!-- <table border=0 cellpadding="2">
 <tr>
        <p align="center">
@@ -21,10 +22,11 @@
 	</table>
 </p><br>
 -->
+<!--
+## :sassy_man:  About me -->
 
-## :sassy_man:  About me
-<p align="center">I'm an Aspiring Data Scientist. My current focus is on emerging technologies (Machine Learing & Deep Learning) & working on my Final Year Project (FYP).
-</p>
+_an aspiring data scientist. I'm currently focusing on emerging technologies, such as machine learning and deep learning, and I'm working on my final year project (FYP)._
+
 
 <br>
 
