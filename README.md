@@ -123,10 +123,12 @@ _an aspiring data scientist. I'm currently focusing on emerging technologies, su
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Arslan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mecxlan&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-	
-  &nbsp; 
-  
-  <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecxlan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mecxlan" height="192px"/>
+
+
+  <summary><b>🌬️ Languages Used</b></summary> 
+  <br/>
+  <p align="center">
+	  <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecxlan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mecxlan" height="192px"/></p>
   
   <br/>
 	  
