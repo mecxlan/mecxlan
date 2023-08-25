@@ -126,7 +126,7 @@ _an aspiring data scientist. I'm currently focusing on emerging technologies, su
 	
   &nbsp; 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mecxlan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mecxlan" height="192px"/>
+  <img aligh="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mecxlan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mecxlan" height="192px"/>
   
   <br/>
 	  
